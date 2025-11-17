@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_jsma\\Lumora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|c:\\git_jsma\\lumora\\lumora\\models\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|solutionrelative:lumora\\models\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\controller\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\controller\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\controller\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\controller\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\controller\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|c:\\git_jsma\\lumora\\lumora\\lumora.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.Web.csproj|solutionrelative:lumora\\lumora.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EDE3D-CD7A-41C7-9454-9895252278C6}|SRI.ElectronicDocuments.Ecuador\\SRI.ElectronicDocuments.Ecuador.csproj|c:\\git_jsma\\lumora\\sri.electronicdocuments.ecuador\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EDE3D-CD7A-41C7-9454-9895252278C6}|SRI.ElectronicDocuments.Ecuador\\SRI.ElectronicDocuments.Ecuador.csproj|solutionrelative:sri.electronicdocuments.ecuador\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|c:\\git_jsma\\lumora\\lumora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|solutionrelative:lumora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|c:\\git_jsma\\lumora\\lumora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{350E4267-273B-436F-9CEC-D1DBEEF6C52E}|Lumora\\Lumora.csproj|solutionrelative:lumora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemConfig.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\SystemConfig.cs",
+              "RelativeDocumentMoniker": "Lumora\\Models\\SystemConfig.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\SystemConfig.cs",
+              "RelativeToolTip": "Lumora\\Models\\SystemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:40:13.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Lumora\\Models\\Article.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\Article.cs",
+              "RelativeToolTip": "Lumora\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:40:05.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lumora\\Models\\User.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\User.cs",
+              "RelativeToolTip": "Lumora\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lumora\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lumora\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:35.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturacionController.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\FacturacionController.cs",
+              "RelativeDocumentMoniker": "Lumora\\Controller\\FacturacionController.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\FacturacionController.cs",
+              "RelativeToolTip": "Lumora\\Controller\\FacturacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Lumora\\Controller\\InventoryController.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\InventoryController.cs",
+              "RelativeToolTip": "Lumora\\Controller\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:12.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppSettingsConfig.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\AppSettingsConfig.cs",
+              "RelativeDocumentMoniker": "Lumora\\Models\\AppSettingsConfig.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Models\\AppSettingsConfig.cs",
+              "RelativeToolTip": "Lumora\\Models\\AppSettingsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:36:06.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SetupController.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\SetupController.cs",
+              "RelativeDocumentMoniker": "Lumora\\Controller\\SetupController.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\SetupController.cs",
+              "RelativeToolTip": "Lumora\\Controller\\SetupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lumora\\Controller\\AccountController.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Controller\\AccountController.cs",
+              "RelativeToolTip": "Lumora\\Controller\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:38:48.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lumora",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Lumora.Web.csproj",
+              "RelativeDocumentMoniker": "Lumora\\Lumora.Web.csproj",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Lumora.Web.csproj",
+              "RelativeToolTip": "Lumora\\Lumora.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T16:37:47.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\appsettings.json",
+              "RelativeDocumentMoniker": "Lumora\\appsettings.json",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\appsettings.json",
+              "RelativeToolTip": "Lumora\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T16:35:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\Lumora\\Program.cs",
+              "RelativeDocumentMoniker": "Lumora\\Program.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\Lumora\\Program.cs",
+              "RelativeToolTip": "Lumora\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:34:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Git_jsma\\Lumora\\SRI.ElectronicDocuments.Ecuador\\Class1.cs",
+              "RelativeDocumentMoniker": "SRI.ElectronicDocuments.Ecuador\\Class1.cs",
+              "ToolTip": "C:\\Git_jsma\\Lumora\\SRI.ElectronicDocuments.Ecuador\\Class1.cs",
+              "RelativeToolTip": "SRI.ElectronicDocuments.Ecuador\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:34:05.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
