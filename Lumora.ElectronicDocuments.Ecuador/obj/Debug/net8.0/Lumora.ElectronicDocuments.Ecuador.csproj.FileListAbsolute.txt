@@ -1,0 +1,12 @@
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\bin\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.deps.json
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\bin\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.dll
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\bin\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.pdb
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.AssemblyInfoInputs.cache
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.AssemblyInfo.cs
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.csproj.CoreCompileInputs.cache
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.sourcelink.json
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.dll
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\refint\Lumora.ElectronicDocuments.Ecuador.dll
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\Lumora.ElectronicDocuments.Ecuador.pdb
+C:\Git_jsma\Lumora\Lumora.ElectronicDocuments.Ecuador\obj\Debug\net8.0\ref\Lumora.ElectronicDocuments.Ecuador.dll

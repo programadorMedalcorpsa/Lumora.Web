@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lumora.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d18451dd888cba5a66806ea01c68763d30bac9ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lumora.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lumora.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

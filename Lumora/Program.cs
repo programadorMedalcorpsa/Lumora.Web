@@ -2,10 +2,9 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.Extensions.Options;
-using SRI.Inventory.Web.Models;
-using SRI.Inventory.Web.Services;
 using System.Text;
-using SecurityHelper; // Referencia a tu DLL de encriptación
+using SecurityHelper;
+using Lumora.Web.Models; // Referencia a tu DLL de encriptación
 
 var builder = WebApplication.CreateBuilder(args);
 
