@@ -1,9 +1,0 @@
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.csproj.AssemblyReference.cache
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.AssemblyInfoInputs.cache
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.AssemblyInfo.cs
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.csproj.CoreCompileInputs.cache
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.RazorAssemblyInfo.cache
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.RazorAssemblyInfo.cs
-C:\Git_jsma\Lumora\Lumora\obj\Debug\net8.0\Lumora.Web.sourcelink.json

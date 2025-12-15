@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumora.Web", "Lumora.Web\Lumora.Web.csproj", "{3B13DAC3-46CE-46FC-95CB-0D3ED49E4C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumoraDLL", "LumoraDLL\LumoraDLL.csproj", "{964C5B37-62C9-44F8-A514-22B14D3FBA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B13DAC3-46CE-46FC-95CB-0D3ED49E4C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B13DAC3-46CE-46FC-95CB-0D3ED49E4C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B13DAC3-46CE-46FC-95CB-0D3ED49E4C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B13DAC3-46CE-46FC-95CB-0D3ED49E4C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964C5B37-62C9-44F8-A514-22B14D3FBA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964C5B37-62C9-44F8-A514-22B14D3FBA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964C5B37-62C9-44F8-A514-22B14D3FBA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964C5B37-62C9-44F8-A514-22B14D3FBA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD39489-1399-4F4D-A069-E51C4F1C1BDE}
+	EndGlobalSection
+EndGlobal
